@@ -2,6 +2,55 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-07-20 https://www.israelhayom.co.il
+www.israelhayom.co.il##.slick-list
+www.israelhayom.co.il##a.single-post-tag
+www.israelhayom.co.il##.single-post-meta-toolbar__comments.single-post-meta-toolbar_tool
+||www.israelhayom.co.il/adframe.js$important
+||www.israelhayom.co.il/graphql/linklist$important
+
+! 2021-07-20 https://www.d.co.il
+||www.d.co.il/Content/Css/CustomersCarousel/*$stylesheet,domain=www.d.co.il,important
+
+! 2021-07-20 https://www.israelhayom.co.il
+||www.israelhayom.co.il/graphql/loadmore$xhr,domain=www.israelhayom.co.il,important
+www.israelhayom.co.il##.link-list
+
+! 2021-07-20 https://www.globes.co.il
+www.globes.co.il##.print
+
+! 2021-07-21 https://www.rtings.com
+www.rtings.com##.footer
+
+! 2021-07-21 https://www.netoneto.co.il
+www.netoneto.co.il##.bundlesale
+||www.netoneto.co.il/images/itempics/BN_252.png$image
+www.netoneto.co.il##.product-contact-form
+www.netoneto.co.il##.jcarousel.banners.block.item-productfromcategories
+www.netoneto.co.il###eshop-footer
+www.netoneto.co.il##.header_header_banner3.designbox
+www.netoneto.co.il##.footer_footer_banner3.designbox
+www.netoneto.co.il###footer
+
+! 2021-07-23 https://selfservice.hot.net.il
+selfservice.hot.net.il##.footerLogos
+selfservice.hot.net.il##.footerContent
+selfservice.hot.net.il##.ng-star-inserted.ng-tns-c25-0.personalPage_login > .ng-tns-c25-0.personalPage_centered
+selfservice.hot.net.il##.headerTop
+selfservice.hot.net.il##.headerLogo
+
+! 2021-07-23 https://www.amazon.com
+www.amazon.com##.bucket.cardRoot
+www.amazon.com###HLCXComparisonJumplink_feature_div
+www.amazon.com##.Accessory.an.aloha-simple-bundle-group-Add
+
+! 2021-07-25 https://hi10anime.com
+hi10anime.com##.modal-content
+hi10anime.com##.show.fade.modal
+hi10anime.com##.show.fade.modal-backdrop
+selfservice.bezeqint.net#@#.goToTop
+
+
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 4pda.to##.copyright
