@@ -2,6 +2,33 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+! 2021-07-25 https://selfservice.bezeqint.net
+selfservice.bezeqint.net##.tzurLogo
+selfservice.bezeqint.net##.footerLogos
+selfservice.bezeqint.net##.regulation.info-links
+
+! 2021-07-27 https://www.payngo.co.il
+www.payngo.co.il##.bottom
+www.payngo.co.il###subscriptionForm
+www.payngo.co.il##.slick-slider.slick-initialized.upsell.items-carousel
+www.payngo.co.il##.upsell-Title
+
+! 2021-07-27 https://www.google.com
+www.google.com###footcnt
+www.google.com###botstuff
+
+! 2021-07-27 https://www.zap.co.il
+www.zap.co.il##.BidsContainer
+
+! 2021-07-27 https://www.dvdcenter.co.il
+www.dvdcenter.co.il###eshop-footer
+www.dvdcenter.co.il###footer
+
+! 2021-07-29 https://www.zap.co.il
+www.zap.co.il##.SliderRow
+www.tvtime.com#@#.banner
+
+
 ! 2021-07-20 https://www.israelhayom.co.il
 www.israelhayom.co.il##.slick-list
 www.israelhayom.co.il##a.single-post-tag
