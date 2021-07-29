@@ -2,82 +2,6 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
-! 2021-07-25 https://selfservice.bezeqint.net
-selfservice.bezeqint.net##.tzurLogo
-selfservice.bezeqint.net##.footerLogos
-selfservice.bezeqint.net##.regulation.info-links
-
-! 2021-07-27 https://www.payngo.co.il
-www.payngo.co.il##.bottom
-www.payngo.co.il###subscriptionForm
-www.payngo.co.il##.slick-slider.slick-initialized.upsell.items-carousel
-www.payngo.co.il##.upsell-Title
-
-! 2021-07-27 https://www.google.com
-www.google.com###footcnt
-www.google.com###botstuff
-
-! 2021-07-27 https://www.zap.co.il
-www.zap.co.il##.BidsContainer
-
-! 2021-07-27 https://www.dvdcenter.co.il
-www.dvdcenter.co.il###eshop-footer
-www.dvdcenter.co.il###footer
-
-! 2021-07-29 https://www.zap.co.il
-www.zap.co.il##.SliderRow
-www.tvtime.com#@#.banner
-
-
-! 2021-07-20 https://www.israelhayom.co.il
-www.israelhayom.co.il##.slick-list
-www.israelhayom.co.il##a.single-post-tag
-www.israelhayom.co.il##.single-post-meta-toolbar__comments.single-post-meta-toolbar_tool
-||www.israelhayom.co.il/adframe.js$important
-||www.israelhayom.co.il/graphql/linklist$important
-
-! 2021-07-20 https://www.d.co.il
-||www.d.co.il/Content/Css/CustomersCarousel/*$stylesheet,domain=www.d.co.il,important
-
-! 2021-07-20 https://www.israelhayom.co.il
-||www.israelhayom.co.il/graphql/loadmore$xhr,domain=www.israelhayom.co.il,important
-www.israelhayom.co.il##.link-list
-
-! 2021-07-20 https://www.globes.co.il
-www.globes.co.il##.print
-
-! 2021-07-21 https://www.rtings.com
-www.rtings.com##.footer
-
-! 2021-07-21 https://www.netoneto.co.il
-www.netoneto.co.il##.bundlesale
-||www.netoneto.co.il/images/itempics/BN_252.png$image
-www.netoneto.co.il##.product-contact-form
-www.netoneto.co.il##.jcarousel.banners.block.item-productfromcategories
-www.netoneto.co.il###eshop-footer
-www.netoneto.co.il##.header_header_banner3.designbox
-www.netoneto.co.il##.footer_footer_banner3.designbox
-www.netoneto.co.il###footer
-
-! 2021-07-23 https://selfservice.hot.net.il
-selfservice.hot.net.il##.footerLogos
-selfservice.hot.net.il##.footerContent
-selfservice.hot.net.il##.ng-star-inserted.ng-tns-c25-0.personalPage_login > .ng-tns-c25-0.personalPage_centered
-selfservice.hot.net.il##.headerTop
-selfservice.hot.net.il##.headerLogo
-
-! 2021-07-23 https://www.amazon.com
-www.amazon.com##.bucket.cardRoot
-www.amazon.com###HLCXComparisonJumplink_feature_div
-www.amazon.com##.Accessory.an.aloha-simple-bundle-group-Add
-
-! 2021-07-25 https://hi10anime.com
-hi10anime.com##.modal-content
-hi10anime.com##.show.fade.modal
-hi10anime.com##.show.fade.modal-backdrop
-selfservice.bezeqint.net#@#.goToTop
-
-
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 4pda.to##.copyright
@@ -143,6 +67,9 @@ bstore.bezeq.co.il##.clearfix.bezeq_blue_footer
 chaturbate.com##.footer-holder
 cloud.reolink.com##.footer-mod-2.footer
 cloud.reolink.com##.notice-cookies
+cracked.to##.footer-back
+cracked.to##[href="https://ping.fo"]
+cracked.to##[href="https://t.me/accountvaultupdates"]
 deliveries.orrs.de##.mdl-mega-footer
 deliveries.orrs.de##.mdl-mega-footer--bottom-section
 deltalabsproject.blogspot.com###copyright
@@ -214,12 +141,16 @@ hi10anime.com##.ABD_display_adblock.ABD_display > [href]
 hi10anime.com##.ABD_display_adblock.ABD_display > strong
 hi10anime.com##.donateImage
 hi10anime.com##.entry-content > .rw-no-labels.rw-left.rw-ltr.rw-rating-table > tbody > tr
+hi10anime.com##.modal-content
 hi10anime.com##.post-navigation.navigation
 hi10anime.com##.rw-no-labels.rw-left.rw-ltr.rw-rating-table
+hi10anime.com##.show.fade.modal
+hi10anime.com##.show.fade.modal-backdrop
 hi10anime.com##.site-footer
 hi10anime.com##.tag-links
 hi10anime.com##.widget_tag_cloud.widget
 hi10anime.com##div > [href="https://hi10anime.com/donate"]
+hitfile.net##.footer
 hwzone.co.il###above_header_banner
 hwzone.co.il###forumFooterToWebsite
 hwzone.co.il###ipsLayout_footer
@@ -291,6 +222,7 @@ ksp.co.il##[href^="https://ksp.co.il/lastNewMail"]
 ksp.co.il##a.jss123:nth-of-type(1)
 ksp.co.il##a.jss123:nth-of-type(3)
 lineageosroms.com##.chlebek
+linkvertise.com##.d-none.d-md-block
 linkvertise.com##.redirect-inner-block > .text-center.headline
 linkvertise.com##.suggestion-item-wrapper.container > .text-center.headline
 linkvertise.com##.suggestions-full-wrapper
@@ -387,12 +319,15 @@ ouo.press##.footer-copy > .container
 ouo.press##.join-now
 outlook.live.com##.content-171.ms-Layer-content.ms-Fabric
 outlook.live.com##.root-195.ms-Dialog.is-open.ms-Modal
+oxy.st###abuse
 oxy.st##.footer-main
 oxy.st##.footer-single-item
 oxy.st##.foter-botom
 oxy.st##.margin-right.single-footer
+oxy.st##.section-padding_bottom_m.section-padding_top_none.section-padding.text-block_align_center.text-block
 oxy.st##.single-footer
 oxy.st##.solution-area
+oxy.st##.text-block__text.text_font_text.text_typeface_regular.text_align_center.text_size_s12.text
 pastebin.com##.-post-view.notice
 pastebin.com##.footer__left
 pastebin.com##.top-footer
@@ -435,6 +370,15 @@ security.stackexchange.com##.fd-column.gsy.gs4.grid.post-taglist
 security.stackexchange.com##.privacy-policy-agreement
 security.stackexchange.com##.ps-relative.js-freemium-cta
 security.stackexchange.com##.site-footer--container
+selfservice.bezeqint.net##.footerLogos
+selfservice.bezeqint.net##.regulation.info-links
+selfservice.bezeqint.net##.tzurLogo
+selfservice.bezeqint.net#@#.goToTop
+selfservice.hot.net.il##.footerContent
+selfservice.hot.net.il##.footerLogos
+selfservice.hot.net.il##.headerLogo
+selfservice.hot.net.il##.headerTop
+selfservice.hot.net.il##.ng-star-inserted.ng-tns-c25-0.personalPage_login > .ng-tns-c25-0.personalPage_centered
 softwarekeep.com##.banner-item
 steamunlocked.net##.col-lg-12.copyright
 steamunlocked.net##.col-lg-4.footer_widget
@@ -575,6 +519,8 @@ www.amazon.*##.widgetId\=feedback.template\=FEEDBACK.slot\=MAIN.celwidget
 www.amazon.*##div#bia_content.a-box > div.a-box-inner.a-padding-base
 www.amazon.*##div.celwidget:nth-of-type(45)
 www.amazon.*##div.navFooterPadItemLine.navFooterLinkLine.navFooterLine:nth-of-type(3)
+www.amazon.com###HLCXComparisonJumplink_feature_div
+www.amazon.com##.Accessory.an.aloha-simple-bundle-group-Add
 www.amazon.com##.a-color-secondary.a-size-mini
 www.amazon.com##.a-divider-break.a-divider
 www.amazon.com##.a-divider-section.a-divider
@@ -582,6 +528,7 @@ www.amazon.com##.a-size-mini.a-text-center.a-row
 www.amazon.com##.a-size-mini.a-text-center.a-spacing-small.a-section
 www.amazon.com##.a-size-small.a-spacing-top-medium.a-row
 www.amazon.com##.a-spacing-micro.a-carousel-transition-stretchygoodness.a-carousel-display-stretchygoodness.a-carousel-static.a-carousel-container.a-begin
+www.amazon.com##.bucket.cardRoot
 www.amazon.com##.hsx-rpp-dp-feedbackButton
 www.androidauthority.com##.advertise-button
 www.androidauthority.com##.post-sidebar
@@ -591,6 +538,14 @@ www.androidheadlines.com###wrapper-footer
 www.androidheadlines.com##.footer-row3.pb-4.pt-1.row
 www.androidheadlines.com##.post-copyright
 www.androidheadlines.com##.related-posts.row
+www.androidpolice.com###disqus_recommendations
+www.androidpolice.com##.article-nav
+www.androidpolice.com##.categories
+www.androidpolice.com##.column.secondary
+www.androidpolice.com##.comment-btn
+www.androidpolice.com##.footer.band
+www.androidpolice.com##.post-hotness-meter
+www.androidpolice.com##.single-post-widget
 www.animencodes.com###HTML4
 www.animencodes.com##.footer-inner.region-inner
 www.animencodes.com##.footer-outer
@@ -657,6 +612,8 @@ www.dlink.co.il##.clearfix.width.footer-navigation.accordion
 www.dlink.co.il##.copyright
 www.dlink.ru##.copyright
 www.driverscape.com##.footer
+www.dvdcenter.co.il###eshop-footer
+www.dvdcenter.co.il###footer
 www.electra-trade.co.il###credits
 www.engadget.com##.Bgc\(\#fff\).Jc\(sa\).D\(f\).W\(100vw\).rwd-outer-container
 www.engadget.com##.Bgc\(engadgetSteelGray\)--md.Bgc\(engadgetGray\).Jc\(sa\).D\(f\).W\(100vw\).rwd-outer-container
@@ -768,11 +725,14 @@ www.globes.co.il##.compReadMore
 www.globes.co.il##.fNumber
 www.globes.co.il##.icons
 www.globes.co.il##.marketingContent
+www.globes.co.il##.print
 www.globes.co.il##.readMoreTitle
 www.globes.co.il##.social
 www.globes.co.il##.tagit
 www.globes.co.il##.wr > section
 www.globes.co.il##footer
+www.google.com###botstuff
+www.google.com###footcnt
 www.gov.il###load_footer_insite
 www.gov.il###load_footer_insite > footer
 www.gov.il##.col-xs-12.col-lg
@@ -843,8 +803,12 @@ www.israelhayom.co.il###footer_message
 www.israelhayom.co.il###mini-panel-footer > .panel-col.panel-panel
 www.israelhayom.co.il##.clear-block.panel-onecol-row-stack.panel-display
 www.israelhayom.co.il##.even.field-item > div:nth-of-type(5) > div:nth-of-type(1) > div > div
+www.israelhayom.co.il##.link-list
+www.israelhayom.co.il##.single-post-meta-toolbar__comments.single-post-meta-toolbar_tool
+www.israelhayom.co.il##.slick-list
 www.israelhayom.co.il##.sticky-header
 www.israelhayom.co.il##.tags-list
+www.israelhayom.co.il##a.single-post-tag
 www.ivory.co.il##.hide-print.mb-0.mt-0.row
 www.ivory.co.il##.noSideMargins.mb-5.align-items-center.d-flex.justify-content-between.row
 www.ivory.co.il##.siyagim
@@ -892,6 +856,13 @@ www.mirrored.to##.extra-top.bordered.col-sm
 www.mirrored.to##footer
 www.mpgh.net##.footer_copyright.shade
 www.mpgh.net##.footer_morecopyright.shade
+www.netoneto.co.il###eshop-footer
+www.netoneto.co.il###footer
+www.netoneto.co.il##.bundlesale
+www.netoneto.co.il##.footer_footer_banner3.designbox
+www.netoneto.co.il##.header_header_banner3.designbox
+www.netoneto.co.il##.jcarousel.banners.block.item-productfromcategories
+www.netoneto.co.il##.product-contact-form
 www.newpangourmet.co.il##.footer-lower
 www.newpangourmet.co.il##.footer-lower-center
 www.newpangourmet.co.il##.footer-middle
@@ -913,6 +884,17 @@ www.opensubtitles.org##div.footer:nth-of-type(13)
 www.opensubtitles.org##div.msg:nth-of-type(11) > div:nth-of-type(1) > div
 www.opensubtitles.org##span:nth-of-type(1) > [href="#"]
 www.partner.co.il##.copyright
+www.payngo.co.il###subscriptionForm
+www.payngo.co.il##.bottom
+www.payngo.co.il##.slick-slider.slick-initialized.upsell.items-carousel
+www.payngo.co.il##.upsell-Title
+www.pc.co.il##.copyright
+www.pc.co.il##.navigation
+www.pc.co.il##.post_tags
+www.pc.co.il##.sidebar.sec_sidebar
+www.pc.co.il##.widget-10.widget-even.shortcode_widget.widget
+www.pc.co.il##aside.sidebar
+www.pc.co.il##footer
 www.pcgamer.com###affiliateDisclaimer
 www.pcgamer.com###document-footer-content
 www.pcgamer.com###popularcontent
@@ -950,6 +932,7 @@ www.reviewgeek.com##.container
 www.reviewgeek.com##.copyright
 www.reviewgeek.com##.logo
 www.reviewgeek.com##.site-footer
+www.rtings.com##.footer
 www.safer-networking.org##.address
 www.safer-networking.org##.copyright
 www.samline.co.il##.copyright
@@ -1033,6 +1016,7 @@ www.tukero.org##.post-text input
 www.tvtime.com###get-the-app
 www.tvtime.com##.credits > p
 www.tvtime.com##.social
+www.tvtime.com#@#.banner
 www.unknowncheats.me###collapseobj_similarthreads
 www.unknowncheats.me##.smallfont.alt1
 www.upload-4ever.com##.mb-5.text-center.content-section.col-sm-12
@@ -1083,11 +1067,13 @@ www.zap.co.il###bannerBelowModelFooter
 www.zap.co.il###bannerBelowProductDetails
 www.zap.co.il##.Advertisement
 www.zap.co.il##.AdvertisementBlock
+www.zap.co.il##.BidsContainer
 www.zap.co.il##.BottomComment
 www.zap.co.il##.MashlimimCat
 www.zap.co.il##.ModelCats
 www.zap.co.il##.RelatedProducts
 www.zap.co.il##.SearchResultsMain > div.BannerBoxNew
+www.zap.co.il##.SliderRow
 www.zap.co.il##.ZapHomepageFooter
 www.zap.co.il##.compareSimilarProducts
 www.zap.co.il##.marginTop.recaptcha
@@ -1131,5 +1117,10 @@ www87.zippyshare.com###bottom
 ||ksp.co.il/m_action/api/promotion/*$1p,important
 ||lps.ynet.co.il/yframe/newsletter_article/$subdocument
 ||www.androidheadlines.com/wp-content/uploads/2020/0*/AH-*.webp$image
+||www.d.co.il/Content/Css/CustomersCarousel/*$stylesheet,domain=www.d.co.il,important
 ||www.driverscape.com/images/scan.png$image
+||www.israelhayom.co.il/adframe.js$important
+||www.israelhayom.co.il/graphql/linklist$important
+||www.israelhayom.co.il/graphql/loadmore$xhr,domain=www.israelhayom.co.il,important
+||www.netoneto.co.il/images/itempics/BN_252.png$image
 ||www2.bittools.net/themes/pro/bittools/images/FTBG.png$image
