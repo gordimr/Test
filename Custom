@@ -84,6 +84,7 @@ deltalabsproject.blogspot.com##a#close-nav[href="javascript:void"]
 diakov.net###dle-content > table > tbody > tr
 diakov.net###thx
 diakov.net##.FiveStarsTd
+diakov.net##.btn-sm.btn-secondary.btn
 diakov.net##.buyAction
 diakov.net##.container.footer
 diakov.net##.fa-slack.fa
@@ -135,6 +136,7 @@ github.com##.mt-3.mb-2.mt-md-2.mx-md-2.text-gray.text-small
 github.com##.p-responsive.width-full.container-xl.footer
 github.com##.protip
 github.com##.px-3.width-full.container-xl.footer
+harb.cma.gov.il##footer.bgBlue.full-width.col-xs-12
 help.orrs.de##.qa-footer
 help.orrs.de##.wet-asphalt.qa-sidebar
 hi10anime.com##.ABD_display_adblock.ABD_display > [href]
@@ -221,6 +223,10 @@ ksp.co.il##.null.jss241.MuiButton-outlined.MuiButton-root.MuiButtonBase-root
 ksp.co.il##[href^="https://ksp.co.il/lastNewMail"]
 ksp.co.il##a.jss123:nth-of-type(1)
 ksp.co.il##a.jss123:nth-of-type(3)
+leitup.com##.col-12
+leitup.com##.col-md-7.brand
+leitup.com##.flex
+leitup.com##.mt-3
 lineageosroms.com##.chlebek
 linkvertise.com##.d-none.d-md-block
 linkvertise.com##.redirect-inner-block > .text-center.headline
@@ -272,6 +278,7 @@ m.gsmarena.com##.popularity-list.material-card.homepage-news-list
 m.gsmarena.com##footer.grid_12
 m.ynet.co.il###rJYuZlZTcpd > span > span
 m.ynet.co.il###share-icons-wrapper-android
+m.ynet.co.il##.SiteArticleContact
 m.ynet.co.il##.article-header-firma
 m.ynet.co.il##.article-header-menu
 m.ynet.co.il##.dont-miss-notify
@@ -289,6 +296,9 @@ members.nubiles-porn.com##.mt-5.bottom-banners.container
 members.nubiles-porn.com##.py-3.footer-container
 members.nubiles-porn.com##.survey-row.row
 miraculoushub.ml###animatedshowsblock
+mobile.mako.co.il##.mistake-title
+mobile.mako.co.il##.not-for-print.status-bar
+mobile.mako.co.il##footer
 myanimelist.net###copyright
 myanimelist.net###footer-block
 myanimelist.net##.ac.footer-recommended
@@ -380,11 +390,18 @@ selfservice.hot.net.il##.headerLogo
 selfservice.hot.net.il##.headerTop
 selfservice.hot.net.il##.ng-star-inserted.ng-tns-c25-0.personalPage_login > .ng-tns-c25-0.personalPage_centered
 softwarekeep.com##.banner-item
+sourceforge.net##.l-gutter
+sourceforge.net##.l-nav-bottom
+sourceforge.net##.l-nav-top
+sourceforge.net##.m-project-list.m-sidebar-widget
+sourceforge.net##aside.m-wide-projects-widget.m-wide-widget
+sourceforge.net##footer.sandiego
 steamunlocked.net##.col-lg-12.copyright
 steamunlocked.net##.col-lg-4.footer_widget
 subscene.com##footer
 superuser.com##.bottom-notice
 superuser.com##.fd-column.gsy.gs4.grid.post-taglist
+superuser.com##.footer
 superuser.com##.fs-fine.site-footer--copyright
 superuser.com##.privacy-policy-agreement
 superuser.com##.ps-relative.js-freemium-cta
@@ -432,6 +449,9 @@ up-load.io##.buyPremium.alert-success.alert
 up-load.io##.col-md-8 > li
 up-load.io##.footer-sub
 up-load.io##.footer-sub > .container
+up-load.io##.pt30.col-md-12
+up-load.io##.report
+up-load.io##.share-info
 up-load.io##.text-center.col-md-8
 up-load.io##center > li
 up-load.io##footer
@@ -466,12 +486,26 @@ walla.*##.undefined.section-links.css-114l8a5
 walla.*##.walla-icon-printer.no-mobile.noprint.css-b3wih4
 windows.tips.net###lightbox_backdrop
 windows.tips.net###pop1_s
+www.4download.net##.berrors
+www.4download.net##.clearfix.carousel-wr2
+www.4download.net##.clearfix.carousel-wr3
+www.4download.net##.clearfix.foot
+www.4download.net##.col-left > .dark.side-box
+www.4download.net##.nowrap.icon-left.clearfix.short-bottom
+www.4download.net##.player-section > .player-section
+www.4download.net##.rel-cont
+www.4download.net##article > .player-section
+www.4download.net##div.green.side-box:nth-of-type(2)
+www.4download.net##div.green.side-box:nth-of-type(4)
+www.4download.net##div.yellow.side-box:nth-of-type(3)
+www.4download.net##div.yellow.side-box:nth-of-type(5)
 www.ace.co.il##.bottom
 www.ace.co.il##.bottom > .container
 www.ace.co.il##.top
 www.ace.co.il##.top > .container
 www.aliexpress.com##.container.detail-main-detail
 www.aliexpress.com##.detailProductTopWarp
+www.aliexpress.com##.next-slick-hoz.next-slick-outer.next-slick
 www.aliexpress.com##.recommendBg
 www.amazon.*###bia-hcb-widget
 www.amazon.*###bottom
@@ -519,17 +553,20 @@ www.amazon.*##.widgetId\=feedback.template\=FEEDBACK.slot\=MAIN.celwidget
 www.amazon.*##div#bia_content.a-box > div.a-box-inner.a-padding-base
 www.amazon.*##div.celwidget:nth-of-type(45)
 www.amazon.*##div.navFooterPadItemLine.navFooterLinkLine.navFooterLine:nth-of-type(3)
-www.amazon.com###HLCXComparisonJumplink_feature_div
-www.amazon.com##.Accessory.an.aloha-simple-bundle-group-Add
-www.amazon.com##.a-color-secondary.a-size-mini
-www.amazon.com##.a-divider-break.a-divider
-www.amazon.com##.a-divider-section.a-divider
-www.amazon.com##.a-size-mini.a-text-center.a-row
-www.amazon.com##.a-size-mini.a-text-center.a-spacing-small.a-section
-www.amazon.com##.a-size-small.a-spacing-top-medium.a-row
-www.amazon.com##.a-spacing-micro.a-carousel-transition-stretchygoodness.a-carousel-display-stretchygoodness.a-carousel-static.a-carousel-container.a-begin
-www.amazon.com##.bucket.cardRoot
-www.amazon.com##.hsx-rpp-dp-feedbackButton
+www.amazon.*###HLCXComparisonJumplink_feature_div
+www.amazon.*###percolate-ui-ilm_div
+www.amazon.*##.Accessory.an.aloha-simple-bundle-group-Add
+www.amazon.*##.a-color-secondary.a-size-mini
+www.amazon.*##.a-divider-break.a-divider
+www.amazon.*##.a-divider-section.a-divider
+www.amazon.*##.a-padding-medium.card-expandable.attach-sidesheet-card
+www.amazon.*##.a-size-mini.a-text-center.a-row
+www.amazon.*##.a-size-mini.a-text-center.a-spacing-small.a-section
+www.amazon.*##.a-size-small.a-spacing-top-medium.a-row
+www.amazon.*##.a-spacing-micro.a-carousel-transition-stretchygoodness.a-carousel-display-stretchygoodness.a-carousel-static.a-carousel-container.a-begin
+www.amazon.*##.aod-recommendations-widget-properties.a-spacing-none.a-section
+www.amazon.*##.bucket.cardRoot
+www.amazon.*##.hsx-rpp-dp-feedbackButton
 www.androidauthority.com##.advertise-button
 www.androidauthority.com##.post-sidebar
 www.androidauthority.com##.wrapper
@@ -608,6 +645,8 @@ www.calcalist.co.il##div.banner.new.General.layoutItem
 www.calcalist.co.il##div.calcalist-most-viewed-auto.layoutItem
 www.daganm.co.il##.footer-bottom > .container
 www.daganm.co.il##.height-matched.match-height.items-in-row-1.margin-top-sm.template-pages_rows.widget-index.widget
+www.diffchecker.com##.footer-content.jsx-2279016371
+www.diffchecker.com##.footer.jsx-2279016371
 www.dlink.co.il##.clearfix.width.footer-navigation.accordion
 www.dlink.co.il##.copyright
 www.dlink.ru##.copyright
@@ -643,6 +682,10 @@ www.foodappeal-online.com###floating-icons
 www.foodappeal-online.com##.col-md-3.col-12.order-md-1.order-3.column
 www.foodappeal-online.com##.pb-md-0.pb-4.col-md-6.col-12.order-md-2.order-1.column
 www.foodappeal-online.com##.text-md-right.text-center.col-md-3.col-12.order-md-3.order-2.column
+www.fosshub.com###fh-sd
+www.fosshub.com###fh-ss
+www.fosshub.com##.block--center.lm
+www.fosshub.com##.fm__p > .block--center.nm
 www.fxp.co.il###big-wap
 www.fxp.co.il###first-post-location
 www.fxp.co.il###footer
@@ -696,6 +739,7 @@ www.geektime.co.il##.all-rights-reserved
 www.geektime.co.il##.author
 www.geektime.co.il##.clearfix.hasut-post
 www.geektime.co.il##.clearfix.suggestions
+www.geektime.co.il##.flex-text.gtf-widget
 www.geektime.co.il##.gtbc-comment-terms-text
 www.geektime.co.il##.gtf-break-text-lines.gtf-margin-right.gtf-widget
 www.geektime.co.il##.gtf-subtitle-margin-right.gtf-widget
@@ -792,6 +836,8 @@ www.hyperxgaming.com##.s-footer__email
 www.hyperxgaming.com##.s-footer__links
 www.hyperxgaming.com##.t-black.s-footer.section-footer > .u-max\+.l-inner
 www.hyperxgaming.com##.t-darkgrey.s-copyright
+www.ice.co.il###enable-toolbar-trigger
+www.ice.co.il##.ReactModalPortal
 www.ice.co.il##.bottom-bordered.content-area.category-block
 www.ice.co.il##.footer
 www.ice.co.il##.form.col-lg-12
@@ -824,6 +870,8 @@ www.lifewire.com##.footer.comp
 www.lifewire.com##.mntl-article-feedback.article-feedback.comp
 www.lifewire.com##.mntl-block.masonry-list-section.comp
 www.lifewire.com##.mntl-dotdash-universal-nav__content
+www.limetorrents.pro###footer
+www.limetorrents.pro##center > div
 www.lnk.co.il###copy_area > .content_wrapper
 www.lnk.co.il##.featured_image_sidebar
 www.lnk.co.il##.full_width.copy_area
@@ -878,7 +926,7 @@ www.opensubtitles.org###n3twork
 www.opensubtitles.org###n3twork_links
 www.opensubtitles.org##.a_2.a.p
 www.opensubtitles.org##.upfooter.footer
-www.opensubtitles.org##[href^="https://www.amazon.com/gp/search"]
+www.opensubtitles.org##[href^="https://www.amazon.*/gp/search"]
 www.opensubtitles.org##div.footer
 www.opensubtitles.org##div.footer:nth-of-type(13)
 www.opensubtitles.org##div.msg:nth-of-type(11) > div:nth-of-type(1) > div
@@ -925,6 +973,7 @@ www.pornhubpremium.com##.logoFooterWrapper
 www.pornhubpremium.com##.membershipCo
 www.pornhubpremium.com##.upsellWrapper
 www.pornhubpremium.com##footer
+www.qbittorrent.org##.copyright
 www.razer.com##.footer-container.container
 www.ret.co.il##footer
 www.reviewgeek.com##.amp-wp-tax-tag
@@ -995,12 +1044,14 @@ www.tgspot.co.il##.td-post-source-tags
 www.tgspot.co.il##.td-related-row
 www.tgspot.co.il##.td-ss-main-sidebar
 www.tgspot.co.il##[href="https://t.me/tgspotcoil"]
+www.tgspot.co.il##[href="https://t.me/tgspotcoil/"]
 www.tgspot.co.il##div.mrf-heightLocked.mrf-adv__wrapper
 www.themarker.com##.u-autospace--4.p-article__aside
 www.themarker.com##.u-mb--4.u-pb--2.o-card > .u-ta--c > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.i-amphtml-element
 www.themarker.com##.u-mv--5.c-related-article-text-only-wrapper
 www.themarker.com##.u-pos--r.u-mv--6.u-ph--2.u-ta--c.u-bdb--1px\(4\,solid\,primary\).u-bdt--1px\(4\,solid\,primary\).c-quick-nl-reg
 www.themarker.com##.u-w--360px.c-web-push-subscribe
+www.themarker.com##article.ah
 www.themarker.com##div.h.g:nth-of-type(6)
 www.themarker.com##section > .u-autospace--4.c-article-entry.b-entry > div > .u-w--300px.u-mr--auto.u-ml--auto.c-dfp-ad
 www.theverge.com###privacyConsent
@@ -1008,7 +1059,26 @@ www.theverge.com##.c-group-disclosure-ecomm
 www.theverge.com##.c-related-list
 www.theverge.com##.connatix-container
 www.theverge.com##footer
+www.tomsguide.com###affiliate-disclaimer
+www.tomsguide.com###article-body > ul
+www.tomsguide.com###document-footer
 www.tomsguide.com###quantcast
+www.tomsguide.com##.after-article-tags
+www.tomsguide.com##.author-block
+www.tomsguide.com##.popularBox.popular-box-slice.slice-container
+www.tomsguide.com##.read-more-container
+www.tomsguide.com##.related-articles-block
+www.tomsguide.com##.xenforo-comments-see-all
+www.tomsguide.com##aside.hawk-processed.hawk-nest
+www.tomshardware.com###document-footer
+www.tomshardware.com###sidebar
+www.tomshardware.com##.affiliateDisclaimerBar.affiliate-disclaimer-bar-slice.slice-container
+www.tomshardware.com##.after-article-tags
+www.tomshardware.com##.author-block
+www.tomshardware.com##.read-more-container
+www.tomshardware.com##.related-articles-block
+www.tomshardware.com##.trending-wrapper
+www.tomshardware.com##.xenforo-comments-see-all
 www.tp-link.com###linkedin-follow
 www.tukero.org###footer
 www.tukero.org##.post-text > div > form
@@ -1063,12 +1133,15 @@ www.youtube.com###guide-links-secondary
 www.youtube.com##.ytd-video-primary-info-renderer.style-scope.super-title
 www.zap.co.il###ModelPage > .BannerBoxNew
 www.zap.co.il###ModelsPage > .BannerBoxNew
+www.zap.co.il###androidStrip
 www.zap.co.il###bannerBelowModelFooter
 www.zap.co.il###bannerBelowProductDetails
 www.zap.co.il##.Advertisement
 www.zap.co.il##.AdvertisementBlock
 www.zap.co.il##.BidsContainer
 www.zap.co.il##.BottomComment
+www.zap.co.il##.FundedAds
+www.zap.co.il##.InnerPagesHeaderMain
 www.zap.co.il##.MashlimimCat
 www.zap.co.il##.ModelCats
 www.zap.co.il##.RelatedProducts
@@ -1107,6 +1180,7 @@ www87.zippyshare.com###bottom
 ||disqus.com/api/3.0/threadReactions/*$xhr,1p,important
 ||disqus.com/recommendations/$subdocument
 ||ds-assets.cdn.devapps.ru^$image,domain=4pda.to,important
+||graphql.themarker.com^$xhr,domain=www.themarker.com,important
 ||i0.wp.com/www.getpcsofts.net/wp-content/uploads/2018/10/download_green_secure_direct.png$image
 ||i1.wp.com/goo.gl/kud8Zc$image
 ||i1.wp.com/www.getpcsofts.net/wp-content/uploads/2020/01/download-button-white.png$image
@@ -1116,6 +1190,7 @@ www87.zippyshare.com###bottom
 ||ksp.co.il/m_action/api/footer-items$1p,important
 ||ksp.co.il/m_action/api/promotion/*$1p,important
 ||lps.ynet.co.il/yframe/newsletter_article/$subdocument
+||services.themarker.com^$1p,important
 ||www.androidheadlines.com/wp-content/uploads/2020/0*/AH-*.webp$image
 ||www.d.co.il/Content/Css/CustomersCarousel/*$stylesheet,domain=www.d.co.il,important
 ||www.driverscape.com/images/scan.png$image
@@ -1123,4 +1198,6 @@ www87.zippyshare.com###bottom
 ||www.israelhayom.co.il/graphql/linklist$important
 ||www.israelhayom.co.il/graphql/loadmore$xhr,domain=www.israelhayom.co.il,important
 ||www.netoneto.co.il/images/itempics/BN_252.png$image
+||www.themarker.com/logger/*$1p,important
+||www.themarker.com/static/tm/images/i_gold_banner.png$image,1p,important
 ||www2.bittools.net/themes/pro/bittools/images/FTBG.png$image
