@@ -24,10 +24,12 @@ account.microsoft.com##.help-footer
 acrobat.adobe.com###gnav_711 > .feds-navList
 acrobat.adobe.com##.gnavFooter > .feds-navBar-wrapper
 aliexpress.*###magnet-order-list
+aliexpress.*###mobile-download
 aliexpress.*###related-searches
 aliexpress.*##.banner-container
 aliexpress.*##.bottom-recommendation
 aliexpress.*##.container.Pd-zt
+aliexpress.*##.container.detail-main-detail
 aliexpress.*##.container.you-may-also-like
 aliexpress.*##.footer-copywrite
 aliexpress.*##.gps-recommend-dialog-title
@@ -36,6 +38,7 @@ aliexpress.*##.hot-words
 aliexpress.*##.just-for-you-entrance.container
 aliexpress.*##.main-content.page-content.seo-page-content
 aliexpress.*##.mobile-app.me-ui-box
+aliexpress.*##.next-slick-hoz.next-slick-outer.next-slick
 aliexpress.*##.product-recomment
 aliexpress.*##.recommend-container.card-container
 aliexpress.*##.related-products
@@ -44,6 +47,8 @@ aliexpress.*##.site-footer
 aliexpress.*##.site-server-box
 aliexpress.*##.user-helper-footer
 aliexpress.*##div.may-like:nth-of-type(4)
+aliexpress.*#.detailProductTopWarp
+aliexpress.*#.recommendBg
 android.stackexchange.com##.ai-center.site-footer--extra
 android.stackexchange.com##.bottom-notice
 android.stackexchange.com##.privacy-policy-agreement
@@ -218,11 +223,15 @@ ksp.co.il##.jss73
 ksp.co.il##.jss84
 ksp.co.il##.jss84 > div > .MuiTypography-body1.MuiTypography-root
 ksp.co.il##.jss88
+ksp.co.il##.jss90
 ksp.co.il##.jss92
+ksp.co.il##.jss94
 ksp.co.il##.null.jss241.MuiButton-outlined.MuiButton-root.MuiButtonBase-root
 ksp.co.il##[href^="https://ksp.co.il/lastNewMail"]
 ksp.co.il##a.jss123:nth-of-type(1)
 ksp.co.il##a.jss123:nth-of-type(3)
+ksp.co.il##a.jss125:nth-of-type(1)
+ksp.co.il##a.jss125:nth-of-type(3)
 leitup.com##.col-12
 leitup.com##.col-md-7.brand
 leitup.com##.flex
@@ -276,6 +285,8 @@ m.gsmarena.com###related-news-container
 m.gsmarena.com##.popularity-list.general-menu
 m.gsmarena.com##.popularity-list.material-card.homepage-news-list
 m.gsmarena.com##footer.grid_12
+m.maariv.co.il##.footer
+m.maariv.co.il##.mm-article-tags
 m.ynet.co.il###rJYuZlZTcpd > span > span
 m.ynet.co.il###share-icons-wrapper-android
 m.ynet.co.il##.SiteArticleContact
@@ -396,6 +407,7 @@ sourceforge.net##.l-nav-top
 sourceforge.net##.m-project-list.m-sidebar-widget
 sourceforge.net##aside.m-wide-projects-widget.m-wide-widget
 sourceforge.net##footer.sandiego
+staslang.wixsite.com###SITE_FOOTER_WRAPPER
 steamunlocked.net##.col-lg-12.copyright
 steamunlocked.net##.col-lg-4.footer_widget
 subscene.com##footer
@@ -503,10 +515,8 @@ www.ace.co.il##.bottom
 www.ace.co.il##.bottom > .container
 www.ace.co.il##.top
 www.ace.co.il##.top > .container
-www.aliexpress.com##.container.detail-main-detail
-www.aliexpress.com##.detailProductTopWarp
-www.aliexpress.com##.next-slick-hoz.next-slick-outer.next-slick
-www.aliexpress.com##.recommendBg
+www.alexandertowels.com##.site-footer
+www.amazon.*###HLCXComparisonJumplink_feature_div
 www.amazon.*###bia-hcb-widget
 www.amazon.*###bottom
 www.amazon.*###cart-about-cart-warning > p
@@ -525,6 +535,7 @@ www.amazon.*###huc-v2-bottom-order-row-with-divider > .huc-lt-ie10-hide.a-divide
 www.amazon.*###moreBuyingChoices_feature_div
 www.amazon.*###nav-flyout-ewc > .nav-flyout-buffer-left
 www.amazon.*###pda-piv-ad-container
+www.amazon.*###percolate-ui-ilm_div
 www.amazon.*###promotions_feature_div
 www.amazon.*###rhf-container
 www.amazon.*###rhf-shoveler
@@ -532,14 +543,26 @@ www.amazon.*###sc-about > p
 www.amazon.*###sc-buy-it-again
 www.amazon.*###sims-consolidated-4_feature_div
 www.amazon.*###valuePick_feature_div
+www.amazon.*##.Accessory.an.aloha-simple-bundle-group-Add
 www.amazon.*##.a-carousel-initialized.p13n-sc-carousel.a-carousel-transition-swap.a-carousel-display-swap.a-carousel-container.a-begin
+www.amazon.*##.a-color-secondary.a-size-mini
+www.amazon.*##.a-divider-break.a-divider
 www.amazon.*##.a-divider-normal
 www.amazon.*##.a-divider-normal.a-spacing-extra-large
+www.amazon.*##.a-divider-section.a-divider
+www.amazon.*##.a-padding-medium.card-expandable.attach-sidesheet-card
+www.amazon.*##.a-size-mini.a-text-center.a-row
+www.amazon.*##.a-size-mini.a-text-center.a-spacing-small.a-section
+www.amazon.*##.a-size-small.a-spacing-top-medium.a-row
+www.amazon.*##.a-spacing-micro.a-carousel-transition-stretchygoodness.a-carousel-display-stretchygoodness.a-carousel-static.a-carousel-container.a-begin
 www.amazon.*##.ac-for-text
 www.amazon.*##.amazonlive-widget-padding
 www.amazon.*##.amzn-safe-frame-container
+www.amazon.*##.aod-recommendations-widget-properties.a-spacing-none.a-section
 www.amazon.*##.bia-content.a-box
+www.amazon.*##.bucket.cardRoot
 www.amazon.*##.bucket.similarities-widget
+www.amazon.*##.hsx-rpp-dp-feedbackButton
 www.amazon.*##.nav-flyout-sidePanel
 www.amazon.*##.nav-sprite-v1.navLeftFooter
 www.amazon.*##.navFooterCopyright.navFooterPadItemLine.navFooterLinkLine.navFooterLine
@@ -551,20 +574,11 @@ www.amazon.*##.widgetId\=feedback.template\=FEEDBACK.slot\=MAIN.celwidget
 www.amazon.*##div#bia_content.a-box > div.a-box-inner.a-padding-base
 www.amazon.*##div.celwidget:nth-of-type(45)
 www.amazon.*##div.navFooterPadItemLine.navFooterLinkLine.navFooterLine:nth-of-type(3)
-www.amazon.*###HLCXComparisonJumplink_feature_div
-www.amazon.*###percolate-ui-ilm_div
-www.amazon.*##.Accessory.an.aloha-simple-bundle-group-Add
-www.amazon.*##.a-color-secondary.a-size-mini
-www.amazon.*##.a-divider-break.a-divider
-www.amazon.*##.a-divider-section.a-divider
-www.amazon.*##.a-padding-medium.card-expandable.attach-sidesheet-card
-www.amazon.*##.a-size-mini.a-text-center.a-row
-www.amazon.*##.a-size-mini.a-text-center.a-spacing-small.a-section
-www.amazon.*##.a-size-small.a-spacing-top-medium.a-row
-www.amazon.*##.a-spacing-micro.a-carousel-transition-stretchygoodness.a-carousel-display-stretchygoodness.a-carousel-static.a-carousel-container.a-begin
-www.amazon.*##.aod-recommendations-widget-properties.a-spacing-none.a-section
-www.amazon.*##.bucket.cardRoot
-www.amazon.*##.hsx-rpp-dp-feedbackButton
+www.amazon.com###customer-survey_feature_div
+www.amazon.com###edpIngress_feature_div
+www.amazon.com###sims-consolidated-2_feature_div
+www.amazon.com##.p13n-carousel-initialized.a-carousel-initialized.p13n-sc-shoveler.a-carousel-transition-swap.a-carousel-display-swap.a-carousel-container.a-begin
+www.amazon.com##div#similarities_feature_div.celwidget > .celwidget
 www.androidauthority.com##.advertise-button
 www.androidauthority.com##.post-sidebar
 www.androidauthority.com##.wrapper
@@ -641,6 +655,15 @@ www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(8)
 www.calcalist.co.il##div.art-top-mrg.clearFix:nth-of-type(9)
 www.calcalist.co.il##div.banner.new.General.layoutItem
 www.calcalist.co.il##div.calcalist-most-viewed-auto.layoutItem
+www.citydeal.co.il###designbox_907
+www.citydeal.co.il###designbox_913
+www.citydeal.co.il###designbox_915
+www.citydeal.co.il###eshop-footer
+www.citydeal.co.il###floating-icons
+www.citydeal.co.il###footer
+www.citydeal.co.il##.product_product_bundle.designbox
+www.consumers.org.il##.four-in-line
+www.consumers.org.il##div > .copyright
 www.daganm.co.il##.footer-bottom > .container
 www.daganm.co.il##.height-matched.match-height.items-in-row-1.margin-top-sm.template-pages_rows.widget-index.widget
 www.diffchecker.com##.footer-content.jsx-2279016371
@@ -758,17 +781,25 @@ www.getpcsofts.net##.group.related-posts
 www.getpcsofts.net##.heading
 www.getpcsofts.net##.post-tags
 www.getpcsofts.net##[src="//i1.wp.com/www.getpcsofts.net/wp-content/uploads/2020/01/download-button-white.png"]
+www.gigabyte.com##footer
 www.globes.co.il###F_Content > .tags
+www.globes.co.il###GPage_main > .sticky.fixed
+www.globes.co.il###comp1
 www.globes.co.il###passMadadim
 www.globes.co.il###readMoreList
+www.globes.co.il##.articleB
 www.globes.co.il##.asideContent
+www.globes.co.il##.bigTextIcon.Article_Icon
+www.globes.co.il##.compBanner
 www.globes.co.il##.compNewsletter
 www.globes.co.il##.compReadMore
 www.globes.co.il##.fNumber
+www.globes.co.il##.fixed.sticky
 www.globes.co.il##.icons
 www.globes.co.il##.marketingContent
 www.globes.co.il##.print
 www.globes.co.il##.readMoreTitle
+www.globes.co.il##.smallTextIcon.Article_Icon
 www.globes.co.il##.social
 www.globes.co.il##.tagit
 www.globes.co.il##.wr > section
@@ -842,6 +873,9 @@ www.ice.co.il##.form.col-lg-12
 www.ice.co.il##.tags-container
 www.ice.co.il##div.item > .newsletter-register
 www.iec.co.il##.bottom
+www.isfar.co.il##.fix.col-3.footer-widgets
+www.isfar.co.il##.site-footer
+www.isfar.co.il##.site-info
 www.israelhayom.co.il###footer
 www.israelhayom.co.il###footer_message
 www.israelhayom.co.il###mini-panel-footer > .panel-col.panel-panel
@@ -979,7 +1013,9 @@ www.reviewgeek.com##.container
 www.reviewgeek.com##.copyright
 www.reviewgeek.com##.logo
 www.reviewgeek.com##.site-footer
+www.rtings.com##.best_bar
 www.rtings.com##.footer
+www.rtings.com##.recommendation_banner
 www.safer-networking.org##.address
 www.safer-networking.org##.copyright
 www.samline.co.il##.copyright
@@ -1092,6 +1128,22 @@ www.upload-4ever.com##.pt-0.lighten-5.blue-grey.page-footer
 www.upload-4ever.com##.text-center.col-12 > .my-5
 www.upload-4ever.com##.text-center.py-3.footer-copyright
 www.upload-4ever.com##span.waves-light.waves-effect.waves-input-wrapper:nth-of-type(1)
+www.whathifi.com###document-footer
+www.whathifi.com###in-article
+www.whathifi.com###sidebar > .hawk-processed
+www.whathifi.com##.affiliateDisclaimerBar.affiliate-disclaimer-bar-slice.slice-container
+www.whathifi.com##.author-block
+www.whathifi.com##.popularBox.popular-box-slice.slice-container
+www.whathifi.com##.trendingbar.trending-bar-container.slice-container
+www.whathifi.com##.vid-present.van_vid_carousel
+www.whathifi.com##aside#sidebar
+www.whathifi.com##aside.hawk-processed.hawk-nest
+www.wisebuy.co.il###uc_Footer_Footer
+www.wisebuy.co.il##.BidsBoxes > .TitleRow
+www.wisebuy.co.il##.BidsBoxes > div.StoreBox
+www.wisebuy.co.il##.BuyingGuides
+www.wisebuy.co.il##.Dictionary
+www.wisebuy.co.il##.bid.store-box
 www.xda-developers.com###about-author-wrapper
 www.xda-developers.com###footer
 www.xda-developers.com###footer-left
