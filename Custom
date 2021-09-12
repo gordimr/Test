@@ -2,6 +2,8 @@
 ! Expires: 1 hours
 ! Homepage: https://github.com/gordimr/AdBlock-Filter-List/edit/main/Custom
 !
+192.168.1.2##.col-sm-6.col-xs-12
+192.168.1.2##strong > [href="https://pi-hole.net/donate/"]
 4pda.ru##.copyright
 4pda.ru##noindex > .borderwrap
 4pda.to##.copyright
@@ -120,6 +122,8 @@ dxracer.co.il##.wf-container-footer > .wf-container
 dxracer.co.il##.wf-float-right
 en.wikipedia.org###footer-info-copyright
 en.wikipedia.org###footer-places
+eu.community.samsung.com##.black.samsung-footer
+eu.community.samsung.com##.lia-quilt-column-side-content.lia-quilt-column-right.lia-quilt-column-06.lia-quilt-column
 forum.oszone.net###collapseobj_similarthreads
 forum.oszone.net###footer_c
 forum.oszone.net##.page > div > .smallfont
@@ -173,7 +177,11 @@ hwzone.co.il##.ipsPager_prev
 hwzone.co.il##.ipsSpacer_top.ipsMessage_general.ipsMessage
 hwzone.co.il##.jeg_block_container.jeg_posts
 hwzone.co.il##.jeg_content
+hwzone.co.il##.jeg_post_tags
 hwzone.co.il##.jeg_vc_content
+hwzone.co.il##.jnews_related_post_container
+hwzone.co.il##.widget_jnews_tab_post.widget
+hwzone.co.il#@#.jeg_content
 il.shein.com##.c-recommend-goodsd
 il.shein.com##.j-footer.container-fluid.c-footer
 il.shein.com##.j-recommend-list
@@ -289,6 +297,7 @@ m.maariv.co.il##.footer
 m.maariv.co.il##.mm-article-tags
 m.ynet.co.il###rJYuZlZTcpd > span > span
 m.ynet.co.il###share-icons-wrapper-android
+m.ynet.co.il###ynet_premium_blocked
 m.ynet.co.il##.SiteArticleContact
 m.ynet.co.il##.article-header-firma
 m.ynet.co.il##.article-header-menu
@@ -349,9 +358,15 @@ oxy.st##.section-padding_bottom_m.section-padding_top_none.section-padding.text-
 oxy.st##.single-footer
 oxy.st##.solution-area
 oxy.st##.text-block__text.text_font_text.text_typeface_regular.text_align_center.text_size_s12.text
+pastebin.com##.-on.sidebar__sticky
 pastebin.com##.-post-view.notice
+pastebin.com##.content > div:nth-of-type(1)
+pastebin.com##.footer
 pastebin.com##.footer__left
+pastebin.com##.h_800.share
 pastebin.com##.top-footer
+pastebin.com##a.-small.btn:nth-of-type(6)
+pastebin.com#@#.adsbyvli:upward(1)
 pcpartpicker.com###disclosure
 pcpartpicker.com##.footer__copyright
 pcpartpicker.com##body > .clearfix
@@ -517,6 +532,7 @@ www.ace.co.il##.top
 www.ace.co.il##.top > .container
 www.alexandertowels.com##.site-footer
 www.amazon.*###HLCXComparisonJumplink_feature_div
+www.amazon.*###WLHUC_footer
 www.amazon.*###bia-hcb-widget
 www.amazon.*###bottom
 www.amazon.*###cart-about-cart-warning > p
@@ -524,7 +540,9 @@ www.amazon.*###cart-item-recs > .a-box > .a-box-inner
 www.amazon.*###center-28_feature_div
 www.amazon.*###center-28_feature_div [href]
 www.amazon.*###certifiedRefurbishedVersion_feature_div
+www.amazon.*###customer-survey_feature_div
 www.amazon.*###dp-ads-center-promo_feature_div
+www.amazon.*###edpIngress_feature_div
 www.amazon.*###huc-rest-upsell-row-1
 www.amazon.*###huc-rest-upsell-row-2 > .huc-v2-upsell-row.a-row
 www.amazon.*###huc-rest-upsell-row-2 > .huc-v2-upsell-title.a-size-large.a-spacing-small.a-row
@@ -541,6 +559,7 @@ www.amazon.*###rhf-container
 www.amazon.*###rhf-shoveler
 www.amazon.*###sc-about > p
 www.amazon.*###sc-buy-it-again
+www.amazon.*###sims-consolidated-2_feature_div
 www.amazon.*###sims-consolidated-4_feature_div
 www.amazon.*###valuePick_feature_div
 www.amazon.*##.Accessory.an.aloha-simple-bundle-group-Add
@@ -567,18 +586,16 @@ www.amazon.*##.nav-flyout-sidePanel
 www.amazon.*##.nav-sprite-v1.navLeftFooter
 www.amazon.*##.navFooterCopyright.navFooterPadItemLine.navFooterLinkLine.navFooterLine
 www.amazon.*##.navFooterDescLine.navFooterLinkLine.navFooterLine
+www.amazon.*##.p13n-carousel-initialized.a-carousel-initialized.p13n-sc-shoveler.a-carousel-transition-swap.a-carousel-display-swap.a-carousel-container.a-begin
 www.amazon.*##.rhf-frame
 www.amazon.*##.sc-java-remote-feature.sc-empty-cart > p
 www.amazon.*##.sims-lpo-section.similarities-widget.a-section
+www.amazon.*##.w-recs
 www.amazon.*##.widgetId\=feedback.template\=FEEDBACK.slot\=MAIN.celwidget
 www.amazon.*##div#bia_content.a-box > div.a-box-inner.a-padding-base
+www.amazon.*##div#similarities_feature_div.celwidget > .celwidget
 www.amazon.*##div.celwidget:nth-of-type(45)
 www.amazon.*##div.navFooterPadItemLine.navFooterLinkLine.navFooterLine:nth-of-type(3)
-www.amazon.com###customer-survey_feature_div
-www.amazon.com###edpIngress_feature_div
-www.amazon.com###sims-consolidated-2_feature_div
-www.amazon.com##.p13n-carousel-initialized.a-carousel-initialized.p13n-sc-shoveler.a-carousel-transition-swap.a-carousel-display-swap.a-carousel-container.a-begin
-www.amazon.com##div#similarities_feature_div.celwidget > .celwidget
 www.androidauthority.com##.advertise-button
 www.androidauthority.com##.post-sidebar
 www.androidauthority.com##.wrapper
@@ -873,6 +890,42 @@ www.ice.co.il##.form.col-lg-12
 www.ice.co.il##.tags-container
 www.ice.co.il##div.item > .newsletter-register
 www.iec.co.il##.bottom
+www.imdb.com###contribute-main-section
+www.imdb.com###sidebar
+www.imdb.com##.VUGIPjGgHtzvbHiU19iTQ.imdb-footer
+www.imdb.com##.bWXzhq.StyledComponents__CastProUpsell-y9ygcu-12.pro-upsell--light.pro-upsell.gNIoRJ.IMDbProUpsell__IMDbProUpsellLink-sc-157l2gk-0
+www.imdb.com##.baseAlt.cVHfkP.SubNavTopicLinks__StyledTopicLinks-sc-5szx1d-0.ipc-inline-list--show-dividers.ipc-inline-list > li.ipc-inline-list__item:nth-of-type(3)
+www.imdb.com##.baseAlt.cVHfkP.SubNavTopicLinks__StyledTopicLinks-sc-5szx1d-0.ipc-inline-list--show-dividers.ipc-inline-list > li.ipc-inline-list__item:nth-of-type(3) > .ipc-link--inherit-color.ipc-link--baseAlt.ipc-link
+www.imdb.com##.baseAlt.cVHfkP.SubNavTopicLinks__StyledTopicLinks-sc-5szx1d-0.ipc-inline-list--show-dividers.ipc-inline-list > li.ipc-inline-list__item:nth-of-type(4)
+www.imdb.com##.baseAlt.cVHfkP.SubNavTopicLinks__StyledTopicLinks-sc-5szx1d-0.ipc-inline-list--show-dividers.ipc-inline-list > li.ipc-inline-list__item:nth-of-type(4) > .ipc-link--inherit-color.ipc-link--baseAlt.ipc-link
+www.imdb.com##.bhTVMj.TitleBlock__HideableRatingBar-sc-1nlhx7j-4.hNqCJh.RatingBar__RatingContainer-sc-85l9wd-0 > .idYUsR.RatingBar__ButtonContainer-sc-85l9wd-1 > div.rating-bar__base-button.jQXoLQ.RatingBarButtonBase__ContentWrap-sc-15v8ssr-0:nth-of-type(2)
+www.imdb.com##.cECatH.Root__Separator-sc-7p0yen-1
+www.imdb.com##.eFCUps.Hero__ProLinkAboveLarge-kvkd64-13.ipc-metadata-list__item
+www.imdb.com##.eSpONj.NavProFlyout-sc-1cjctnc-0.navbar__imdbpro
+www.imdb.com##.hdzTXK.SubNav__ShareButtonWrapper-sc-11106ua-0
+www.imdb.com##.hero-media__watchlist.ipc-poster__watchlist-ribbon.ipc-watchlist-ribbon--onImage.ipc-watchlist-ribbon--baseAlt.ipc-watchlist-ribbon--l.ipc-focusable.ipc-watchlist-ribbon
+www.imdb.com##.hoAGyu.NavProFlyout-sc-1cjctnc-0.navbar__imdbpro
+www.imdb.com##.htSMJL.Root__Separator-sc-7p0yen-1
+www.imdb.com##.iWbYZg.Contribution__ButtonSection-rw6l0w-0
+www.imdb.com##.ipc-icon-button--onBase.ipc-icon-button--baseAlt.sharemenu-iconbutton.ipc-icon-button
+www.imdb.com##.ipc-page-grid__item--span-1.ipc-page-grid__item.hUyfgB.TitleMainBelowTheFoldGroup__SidebarContainer-sc-1vpywau-2
+www.imdb.com##.ipc-title__actions
+www.imdb.com##.ipl-rating-interactive--no-rating.small.ipl-rating-interactive
+www.imdb.com##.jyOOmk.BoxOffice__ImdbProUpsellBoxOffice-sc-40s2pl-1.pro-upsell--light.pro-upsell.gNIoRJ.IMDbProUpsell__IMDbProUpsellLink-sc-157l2gk-0
+www.imdb.com##.ktUycW.AddReviewActionButton__AddReviewButton-sc-11e8do2-0.ipc-text-button.ipc-button--on-accent2.ipc-button--theme-base.ipc-button--core-base.ipc-button--default-height.ipc-button--center-align-content.ipc-button--single-padding.ipc-button
+www.imdb.com##.recently-viewed
+www.imdb.com##.recently-viewed.jUAGsa.RecentlyViewedItems__RecentlyViewedContainer-sc-1kscdxa-0
+www.imdb.com##.watchlistColumn
+www.imdb.com##li.ipc-metadata-list-item--link.ipc-metadata-list__item:nth-of-type(8)
+www.imdb.com##p.text-small.text-muted:nth-of-type(4)
+www.imdb.com##section.celwidget.ipc-page-section--base.ipc-page-section:nth-of-type(14) > .cgqHBf.styles__MetaDataContainer-sc-12uhu9s-0 > .ipc-metadata-list--base.ipc-metadata-list--dividers-all.ipc-metadata-list > li.ipc-metadata-list-item--link.ipc-metadata-list__item:nth-of-type(1)
+www.imdb.com##section.celwidget.ipc-page-section--base.ipc-page-section:nth-of-type(14) > .cgqHBf.styles__MetaDataContainer-sc-12uhu9s-0 > .ipc-metadata-list--base.ipc-metadata-list--dividers-all.ipc-metadata-list > li.ipc-metadata-list-item--link.ipc-metadata-list__item:nth-of-type(1) > .ipc-metadata-list-item__icon-link
+www.imdb.com##section.celwidget.ipc-page-section--base.ipc-page-section:nth-of-type(14) > .cgqHBf.styles__MetaDataContainer-sc-12uhu9s-0 > .ipc-metadata-list--base.ipc-metadata-list--dividers-all.ipc-metadata-list > li.ipc-metadata-list-item--link.ipc-metadata-list__item:nth-of-type(1) > .ipc-metadata-list-item__label--link.ipc-metadata-list-item__label
+www.imdb.com##section.celwidget.ipc-page-section--base.ipc-page-section:nth-of-type(14) > .cgqHBf.styles__MetaDataContainer-sc-12uhu9s-0 > .ipc-metadata-list--base.ipc-metadata-list--dividers-all.ipc-metadata-list > li.ipc-metadata-list-item--link.ipc-metadata-list__item:nth-of-type(2)
+www.imdb.com##section.celwidget.ipc-page-section--base.ipc-page-section:nth-of-type(14) > .cgqHBf.styles__MetaDataContainer-sc-12uhu9s-0 > .ipc-metadata-list--base.ipc-metadata-list--dividers-all.ipc-metadata-list > li.ipc-metadata-list-item--link.ipc-metadata-list__item:nth-of-type(2) > .ipc-metadata-list-item__icon-link
+www.imdb.com##td.ratingColumn:nth-of-type(4)
+www.imdb.com##th:nth-of-type(4)
+www.imdb.com##th:nth-of-type(5)
 www.isfar.co.il##.fix.col-3.footer-widgets
 www.isfar.co.il##.site-footer
 www.isfar.co.il##.site-info
@@ -891,9 +944,20 @@ www.ivory.co.il##.hide-print.mb-0.mt-0.row
 www.ivory.co.il##.noSideMargins.mb-5.align-items-center.d-flex.justify-content-between.row
 www.ivory.co.il##.siyagim
 www.joinhoney.com##.body2.honeyName-0-2-175
+www.joinhoney.com##.body2.honeyName-0-2-355
+www.joinhoney.com##.container-0-2-418
+www.joinhoney.com##.container-0-2-423
 www.joinhoney.com##.cookieConsentBannerContainer-0-2-304
+www.joinhoney.com##.footerButtonsContainer-0-2-210
 www.joinhoney.com##.links-0-2-173
+www.joinhoney.com##.links-0-2-353
+www.joinhoney.com##.linksLeft-0-2-354
 www.joinhoney.com##.mainPadding-0-2-167
+www.joinhoney.com##.mainPadding-0-2-347
+www.joinhoney.com##.phDisclaimer-0-2-91
+www.joinhoney.com##.productFlaggingButtonDesktop-0-2-408 > .button-0-2-409
+www.ktuvit.me##.footer-bottom
+www.ktuvit.me##footer
 www.levhabait.co.il###element_general_footer_payments
 www.levhabait.co.il###footer_group1
 www.levhabait.co.il###footer_middle_groups
@@ -952,16 +1016,26 @@ www.oneplus.com##.copy-right
 www.oneplus.com##.footer-nav
 www.oneplus.com##.hidden-in-store-app.nav-bread
 www.oneplus.com##.self-help
+www.opensubtitles.org###\38 k2faTee\+
 www.opensubtitles.org###footerlinks
 www.opensubtitles.org###lang_footer
+www.opensubtitles.org###moviehash > p
 www.opensubtitles.org###n3twork
 www.opensubtitles.org###n3twork_links
 www.opensubtitles.org##.a_2.a.p
+www.opensubtitles.org##.bt-dwl
+www.opensubtitles.org##.hint.msg
+www.opensubtitles.org##.msgarrow
+www.opensubtitles.org##.site
 www.opensubtitles.org##.upfooter.footer
 www.opensubtitles.org##[href^="https://www.amazon.*/gp/search"]
 www.opensubtitles.org##div.footer
 www.opensubtitles.org##div.footer:nth-of-type(13)
 www.opensubtitles.org##div.msg:nth-of-type(11) > div:nth-of-type(1) > div
+www.opensubtitles.org##div:nth-of-type(2) > div:nth-of-type(6)
+www.opensubtitles.org##div:nth-of-type(4) > fieldset > div:nth-of-type(2)
+www.opensubtitles.org##div:nth-of-type(6) > p:nth-of-type(1)
+www.opensubtitles.org##h2
 www.opensubtitles.org##span:nth-of-type(1) > [href="#"]
 www.partner.co.il##.copyright
 www.payngo.co.il###subscriptionForm
@@ -1155,6 +1229,7 @@ www.xda-developers.com##.xda_suggested_apps.widget
 www.xvideos.red##footer
 www.ynet.co.il###mainAccessibilityButton
 www.ynet.co.il###main_search_weather
+www.ynet.co.il###ynet_premium_blocked
 www.ynet.co.il##.ArticleTagsComponent
 www.ynet.co.il##.CreditLogos
 www.ynet.co.il##.FooterLogos
@@ -1227,6 +1302,7 @@ www2.kickassanime.rs###adultVerify___BV_modal_outer_
 www2.kickassanime.rs##.col-md-12
 www2.kickassanime.rs##.justify-content-end.d-flex.mb-0.list-inline
 www87.zippyshare.com###bottom
+||ad.plus/adplus-advertising.svg$image
 ||disqus.com/api/3.0/threadReactions/*$xhr,1p,important
 ||disqus.com/recommendations/$subdocument
 ||ds-assets.cdn.devapps.ru^$image,domain=4pda.to,important
